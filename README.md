@@ -10,7 +10,7 @@
 
 - ⚡️ Meu nome é Raykkoner Dujhkkovick!
 - 💻 Sou técnico em informática.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg" height="15px" /> Sou estudante do curso superior de ADS, no IFPB
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg" height="15px" /> Sou estudante do curso superior de ADS, no IFPB - Campus Esperança.
 - 🌱 Atualmente, estou aprendendo Java e Python.
 - ⚛️ Tenho experiência com React e React Native.
 
@@ -22,7 +22,7 @@
 <div>
   <a href="https://instagram.com/raykkonerd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:raykkonerd@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/raykkoner-dujhkkovick-silva-de-farias-975801200" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/raykkoner-dujhkkovick-silva-de-farias-975801200" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ![Snake animation](https://github.com/RaykkonerD/RaykkonerD/blob/output/github-contribution-grid-snake.svg)
