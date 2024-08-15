@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">Olá, mundo! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-<!--
-**RaykkonerD/RaykkonerD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=regular+400&pause=1000&color=4AA42A&center=true&vCenter=true&width=500&lines=Olá!+Meu+nome+é+Raykkoner+Dujhkkovick.;Eu+sou+um+Desenvolvedor+de+Software." alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## ⭐ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡️ Meu nome é Raykkoner Dujhkkovick!
+- 💻 Sou tecnico em Informatica.
+- 🌱 Atualmente,estou Aprendendo Java e Python.
