@@ -9,8 +9,9 @@
 ## ⭐ Sobre mim
 
 - ⚡️ Meu nome é Raykkoner Dujhkkovick!
-- 💻 Sou tecnico em Informatica.
-- 🌱 Atualmente,estou Aprendendo Java e Python.
+- 💻 Sou técnico em informática.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg" height="15px" /> Sou estudante do curso superior de ADS, no IFPB
+- 🌱 Atualmente, estou aprendendo Java e Python.
 - ⚛️ Tenho experiência com React e React Native.
 
 ## 🔧 Ferramentas e Tecnologias
